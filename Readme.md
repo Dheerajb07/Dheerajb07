@@ -3,11 +3,11 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajb07&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajb07" /> </p>-->
 
-- 🔭 I’m currently working on <a href=https://github.com/Dheerajb07/Multi-Agent-Path-Finding target="_blank">**Multi-Agent Path Finding (MAPF)**</a>
+- 🔭 I’m currently working on >**Dynamic Walking for Bipedal Robots**</a>
 
-- 🌱 I’m currently learning **Motion Planning, Deep Learning, Pytorch**
+- 🌱 I’m currently learning **Legged Robotics, Optimal Control, Trajectory Optimization**
 
-- 💬 Ask me about **Non-linear Control Systems, Machine Learning, ROS**
+- 💬 Ask me about **Non-linear Control Systems, Motion Planning, Legged Robots, ROS**
 
 - 📫 How to reach me **dbhogisetty@outlook.com**
 
