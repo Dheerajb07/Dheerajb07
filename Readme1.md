@@ -2,16 +2,21 @@
 
 📧 Email: dbhogisetty@outlook.com  
 🔗 LinkedIn: [linkedin.com/in/bhogisetty](https://www.linkedin.com/in/bhogisetty) | 
-🐙 GitHub: [github.com/Dheerajb07](https://github.com/Dheerajb07)
 
 ---
 
-## Education
+## About Myself
+Robotics engineer with a strong background in motion planning, non-linear controls, kinematics, dynamics, and machine learning techniques. Proficient in C++, Python, ROS, and object-oriented programming with proven hands-on experience on numerous projects. Currently, working with a research group to develop optimal controllers to make a bipedal robot walk.
 
+You can view my resume [here](
+
+Previously a Mechanical Design Engineer with extensive experience in designing components for off-shore & deep-sea oil and gas equipment. Proficient in CAD tools - Solidworks (CSWP), AutoCAD, and Product Lifecycle Management tools - Enovia, SolidWorks PDM
+
+## Education
 **Master of Science in Robotics**  
 Worcester Polytechnic Institute, Worcester, MA  
-*GPA: 4.0*  
-*Coursework: Control Systems, Motion Planning, Machine Learning, Deep Learning*  
+*GPA: 4.0/4.0*  
+*Coursework: Control Systems, Motion Planning, Robot Dynamics, Machine Learning, Deep Learning*  
 *Aug. 2022 - May 2024*
 
 **Bachelor of Technology in Mechanical Engineering**  
@@ -25,31 +30,7 @@ Visvesvaraya National Institute of Technology, Nagpur, India
 **Robotics Tools & Frameworks:** ROS/ROS 2, Gazebo, Rviz, OpenCV, MATLAB/Simulink  
 **CAD Tools & Others:** SolidWorks (CSWP), AutoCAD, PLM/PDM
 
-## Experience
-
-**Graduate Student Researcher (Legged Robotics)**  
-*May 2023 – Present*  
-*Advisor: Dr Mohammad Agheli, WPI, Worcester, MA*  
-- Conducting research on developing optimal control techniques for dynamic walking on a bipedal robot.
-- Investigating model-predictive control and trajectory optimization approaches through extensive literature review.
-- Developing ROS-based software for planning and control, tested on a custom Gazebo simulation.
-
-**Mechanical Design Engineer**  
-*Jan. 2021 – Jun. 2022*  
-*Oceaneering International Inc., Pune, India*  
-- Collaborated on developing offshore and deep sea oil & gas equipment in a 40-member cross-functional team.
-- Designed numerous parts and assemblies, drafted engineering drawings for prototyping and production.
-- Engineered a reliable stab locking mechanism to mitigate fluid leakage risk, resulting in significant cost savings.
-- Led a team to deliver comprehensive technical documentation of a project leading to successful deployment.
-
-**Robotics Intern**  
-*May 2019 - Jul. 2019*  
-*Center for Mechatronics, IIT Kanpur, Kanpur, India*  
-- Built a mobile manipulator with a differential drive base and 4 DOF arm.
-- Developed a control scheme to expend minimum energy for robot motion and simulated the system in MATLAB.
-- Carried out a study on impedance control and conducted experiments to determine parameters for control.
-
-## Academic Projects
+## Projects
 
 **Quadrotor Sliding Mode Control** | *Dec. 2022*  
 - Designed a sliding mode controller for a quadrotor to track a trajectory.
