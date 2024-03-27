@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Legged Robotics, Optimal Control, Trajectory Optimization**
 
-- 💬 Ask me about **Non-linear Control Systems, Motion Planning, Legged Robots, ROS**
+- 💬 Ask me about **Non-linear Control Systems, Motion Planning, Legged Robots, ROS2**
 
 - 📫 How to reach me **dbhogisetty@outlook.com**
 
