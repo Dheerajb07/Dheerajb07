@@ -3,9 +3,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajb07&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajb07" /> </p>-->
 
-- 🔭 I’m currently working on **Dynamic Walking for Bipedal Robots**</a>
+- 🔭 I’m currently working on **Robotics Software - ROS 2 and C++**</a>
 
-- 🌱 I’m currently learning **Legged Robotics, Optimal Control, Trajectory Optimization**
+- 🌱 I’m currently learning **Advanced Modern C++, ROS 2 and software engineering principles**
 
 - 💬 Ask me about **Non-linear Control Systems, Motion Planning, Legged Robots, ROS2**
 
