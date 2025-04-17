@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Robotics Software - ROS 2 and C++**</a>
 
-- 🌱 I’m currently learning **Advanced Modern C++, ROS 2 and software engineering principles**
+- 🌱 I’m currently learning **Advanced Modern C++, ROS 2 and Software Engineering principles**
 
 - 💬 Ask me about **Non-linear Control Systems, Motion Planning, Legged Robots, ROS2**
 
