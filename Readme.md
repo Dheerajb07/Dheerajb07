@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Bhogisetty</h1>
-<h3 align="center">Master of Science in Robotics Engineering at Worcester Polytechnic Institute (WPI)</h3>
+<h3 align="center">Robotics Engineer at ChemGenes, MS Robotics at Worcester Polytechnic Institute (WPI)</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajb07&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajb07" /> </p>-->
 
